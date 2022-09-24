@@ -1,0 +1,5 @@
+C:\Users\gusce\Documents\SharpDevelop Projects\servidor\servidor\bin\Debug\servidor.exe
+C:\Users\gusce\Documents\SharpDevelop Projects\servidor\servidor\bin\Debug\servidor.pdb
+C:\Users\gusce\Documents\SharpDevelop Projects\servidor\servidor\obj\Debug\servidor.csprojResolveAssemblyReference.cache
+C:\Users\gusce\Documents\SharpDevelop Projects\servidor\servidor\obj\Debug\servidor.exe
+C:\Users\gusce\Documents\SharpDevelop Projects\servidor\servidor\obj\Debug\servidor.pdb

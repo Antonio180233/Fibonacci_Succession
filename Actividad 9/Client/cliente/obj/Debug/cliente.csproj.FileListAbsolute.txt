@@ -1,0 +1,11 @@
+C:\Users\gusce\Documents\SharpDevelop Projects\cliente\cliente\bin\Debug\cliente.exe
+C:\Users\gusce\Documents\SharpDevelop Projects\cliente\cliente\bin\Debug\cliente.pdb
+C:\Users\gusce\Documents\SharpDevelop Projects\cliente\cliente\obj\Debug\cliente.csprojResolveAssemblyReference.cache
+C:\Users\gusce\Documents\SharpDevelop Projects\cliente\cliente\obj\Debug\cliente.exe
+C:\Users\gusce\Documents\SharpDevelop Projects\cliente\cliente\obj\Debug\cliente.pdb
+C:\Users\52656\Downloads\a9\cliente\cliente\bin\Debug\cliente.exe
+C:\Users\52656\Downloads\a9\cliente\cliente\bin\Debug\cliente.pdb
+C:\Users\52656\Downloads\a9\cliente\cliente\obj\Debug\cliente.csprojAssemblyReference.cache
+C:\Users\52656\Downloads\a9\cliente\cliente\obj\Debug\cliente.csproj.CoreCompileInputs.cache
+C:\Users\52656\Downloads\a9\cliente\cliente\obj\Debug\cliente.exe
+C:\Users\52656\Downloads\a9\cliente\cliente\obj\Debug\cliente.pdb
